@@ -8,7 +8,7 @@ outputs:
 
 runs:
   using: "node16"
-  main: "main.js"
+  main: ".github/actions/my-joke-action/index.js"
 
 branding:
   icon: 'map-pin'
