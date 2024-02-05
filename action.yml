@@ -1,5 +1,5 @@
 name: "my joke action-test-df"
-
+author: "Dmytro Fesyk"
 description: "use an external API to retrieve and display a joke"
 
 outputs:
