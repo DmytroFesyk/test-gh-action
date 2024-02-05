@@ -10,6 +10,6 @@ runs:
   using: "node16"
   main: ".github/actions/joke-action/main.js"
 
-branding:
-  icon: 'map-pin'
-  color: 'red'
+# branding:
+#   icon: 'map-pin'
+#   color: 'red'
